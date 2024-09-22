@@ -1,0 +1,37 @@
+.App {      
+  text-align: center;      
+  background-image: url(./images/logo.png);
+}      
+.App-header {
+  background-color: blue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.navheader{      
+  margin-top: 10px;      
+  color :black !important;      
+  background-color: #b3beca!important      
+}   
+
+.navfooter{      
+       
+  color :black !important;      
+  background-color: #b3beca!important      
+}    
+  
+.PageHeading      
+{      
+  margin-top: 10px;      
+  
+  color :rgb(23, 3, 134) !important;      
+}   
+ .App-Footer
+ {
+  text-align: center;
+ }  
+  
